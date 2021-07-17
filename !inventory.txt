@@ -1,0 +1,7 @@
+M, 3, 2001, 65, Lincoln Cent
+M, 10, 1913, 70, Liberty Nickel
+C, 1, 1938, Mint, Superman, DC
+C, 2, 2010, Excellent, X-Men, Marvel
+Z, 4, 1986, Raging, Metallica, Master of Puppets
+S, 9, 1989, Near Mint, Ken Griffey Jr., Upper Deck
+S, 1, 1952, Very Good, Mickey Mantle, Topps
